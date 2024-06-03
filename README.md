@@ -1,3 +1,16 @@
+BUG REPORT
+
+Hello! My apologies for intervening in this manner, but I couldn't find another way to contact you.
+
+I love the extension, although small issues occasionally arise. In this case, the latest update pulls wite text to update a task when I have the black overlay activated, I can't read it unless I select the text. I can send you a screenshot if you want.
+
+Than you for the great work!
+
+
+https://www.facebook.com/yederith.loner/
+
+##### ##### #####
+
 # Custom Calendar Background
 #### A Chrome extension for styling Google calendar.
 
